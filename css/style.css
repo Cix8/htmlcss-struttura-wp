@@ -40,12 +40,15 @@ header {
     background-color: #abcfe7;
 }
 
+.float-l {
+    float: left;
+}
+
 .sub-cont {
     width: 20%;
     height: 300px;
     margin-bottom: 15px;
     background-color: #abcfe7;
-    float: left;
 }
 
 .sub-cont-centrale {
@@ -53,7 +56,6 @@ header {
     height: 300px;
     margin: 0 10px 15px 10px;
     background-color: #abcfe7;
-    float: left;
 }
 
 footer {
